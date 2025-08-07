@@ -1,57 +1,67 @@
 <p align="center">
-  <img src="https://github.com/tarunkalra.png" width="120" alt="Tarun Kalra" />
+  <img src="https://github.com/tarunkalra.png" width="140" alt="Tarun Kalra" />
 </p>
 
 # Hi there, I'm Tarun Kalra 👋
 
-**From Java Code to Cloud-Native Backends: Building, Observing, and Scaling**
+### From Java Code to Cloud-Native Backends: Building, Observing, and Scaling with Confidence
 
 ---
 
-### 👨‍💻 About Me
+## 👨💻 About Me
 
-- **Software Engineer** passionate about backend development
-- Specializing in **Java (Java 8), Spring Framework, and Spring Boot**
-- Enthusiastic about **Observability**, **DevOps**, **Docker**, and **Kubernetes**
-- Always exploring ways to make systems more **reliable, observable, and scalable**
+I’m a passionate **Software Engineer** specializing in backend development. With expertise in the Java ecosystem, I build scalable and reliable cloud-native applications that stand the test of time.
 
----
-
-### 🛠️ Top Skills
-
-- **Java 8**
-- **Spring Framework / Spring Boot**
-- **Docker & Containerization**
-- **Observability (metrics, logging, tracing)**
-- **Backend Development & Microservices**
-- **DevOps Practices**
-- **Kubernetes (K8s)**
+- 💡 **Core Focus:** Java 8, Spring Framework & Spring Boot  
+- 🚀 **Ecosystem Enthusiast:** Observability, DevOps, Docker, Kubernetes  
+- 🔍 **Mission:** Making systems **reliable, observable, and scalable** with cutting-edge tech and best practices  
 
 ---
 
-### 🚀 What I'm Up To
+## 🛠️ Top Skills & Technologies
 
-- Building robust backend services with Java and Spring Boot
-- Exploring cloud-native architectures and best practices
-- Automating deployments and monitoring with DevOps and Observability tools
-
----
-
-### 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/tarunkalra1601/)
+| Category             | Skills & Tools                                        |
+|----------------------|-----------------------------------------------------|
+| Programming          | Java 8, Spring Framework, Spring Boot                |
+| Containerization     | Docker, Kubernetes (K8s)                              |
+| Observability Tools  | Metrics, Logging, Tracing                             |
+| Architecture         | Backend Development, Microservices                    |
+| DevOps & Automation  | CI/CD, Infrastructure as Code, Monitoring             |
 
 ---
 
-<!-- Optionally, showcase your pinned or favorite projects here! -->
+## 🚀 What I'm Currently Working On
 
-<!--
-### 🌟 Featured Projects
-
-- [Project Name](project-link) - Short description
--->
+- Building **robust backend services** leveraging Java and Spring Boot.
+- Exploring **cloud-native architectures** and scalable system design.
+- Automating deployments and observability pipelines for better operational insight.
+- Continuously learning best practices in **DevOps** and **Kubernetes** ecosystems.
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tarunkalra)
 
-Thanks for visiting my profile! 🚢
+## 🎯 What Drives Me
+
+- Delivering **high-quality software** that solves real-world problems.
+- Crafting systems that are **scalable**, **maintainable**, and **observable**.
+- Sharing knowledge and promoting best practices in backend development and DevOps.
+- Building **communities** around great software and constant learning.
+
+---
+
+## 📫 Let’s Connect!
+
+I’m always eager to collaborate and share ideas. Feel free to reach out!
+
+- [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarunkalra)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunkalra)  
+- 📧 ktarun213@gmail.com
+
+---
+
+### ⭐ If you find this repository helpful or interesting, please give it a star!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunkalra&show_icons=true&theme=radical" alt="Tarun Kalra's GitHub Stats" />
+</p>
